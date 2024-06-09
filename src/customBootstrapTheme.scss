@@ -1,0 +1,8 @@
+//Setting the theme colors
+$primary: #05886c;
+$danger: #158b11;
+$dangerr: #ff0000;
+
+//Including Bootstrap and BootstrapVue SCSS files
+@import '~bootstrap/scss/bootstrap.scss';
+@import '~bootstrap-vue/src/index.scss';

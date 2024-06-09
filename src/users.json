@@ -1,0 +1,6 @@
+[
+    { "name": "admin", "password": "admin" },
+    { "name": "shift", "password": "shift", "station": "Dumba Goth", "stationId": "11", "lanes": "3" },
+    { "name": "user", "password": "user", "station": "Karachi", "stationId": "12", "lanes": "18" },
+    {"name": "ammar","password": "ammar"} , {"name": "ali","password": "ali"}
+]
